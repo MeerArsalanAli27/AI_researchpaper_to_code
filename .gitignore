@@ -1,0 +1,29 @@
+# Logs
+research-code-genie/logs
+*.log
+research-code-genie/npm-debug.log*
+research-code-genie/yarn-debug.log*
+research-code-genie/yarn-error.log*
+research-code-genie/pnpm-debug.log*
+research-code-genie/lerna-debug.log*
+
+research-code-genie/node_modules
+
+research-code-genie/dist
+research-code-genie/dist-ssr
+research-code-genie/*.local
+research-code-genie/package.json
+research-code-genie/node_modules
+
+# Editor directories and files
+research-code-genie/vscode/*
+!.vscode/extensions.json
+research-code-genie/.idea
+research-code-genie/ .DS_Store
+*.suo
+research-code-genie/*.ntvs*
+research-code-genie/*.njsproj
+research-code-genie/*.sln
+research-code-genie/*.sw?
+
+backend/venv/
